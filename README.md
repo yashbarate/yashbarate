@@ -1,4 +1,4 @@
-# Hi, I'm Yash 👋
+# Yash Barate
 
 🎓 Electronics Engineering Student  
 💻 Learning Full-Stack Development & DSA  
