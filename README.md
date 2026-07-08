@@ -4,8 +4,13 @@
 
 **Software Developer**
 
-[![X](https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000;size="0.5")](https://x.com/barate_yash)
-[![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/yash-barate/)
+<a href="https://x.com/barate_yash">
+  <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" width="50">
+</a>
+
+<a href="https://www.linkedin.com/in/yash-barate/">
+  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="50">
+</a>
 
 ---
 
