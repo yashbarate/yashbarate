@@ -16,10 +16,3 @@
 *   Backend Architecture & System Design
 *   Building Scalable Microservices & APIs
 *   Open Source Contribution
-
----
-
-### 📊 Activity Graph
-<!-- Recreation of the contribution/activity grid hidden by the text overlay -->
-```url
-[https://github-readme-activity-graph.vercel.app/graph?username=utkarsh-saxena271&theme=github-dark](https://github-readme-activity-graph.vercel.app/graph?username=utkarsh-saxena271&theme=github-dark)
