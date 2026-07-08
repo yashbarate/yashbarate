@@ -6,13 +6,12 @@
 
 <a href="https://x.com/barate_yash">
   <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000"
-       width="45"
-       style="background-color:white;border-radius:8px;padding:3px;">
+       width="45">
 </a>
 
 <a href="https://www.linkedin.com/in/yash-barate/">
   <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"
-       width="45">
+       width="45" style="background-color:white;" >
 </a>
 
 </div>
